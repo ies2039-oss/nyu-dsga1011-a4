@@ -1,0 +1,18 @@
+# Local environments and generated caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Model weights and local experiment archives
+part1/out/
+part1/out_augmented/
+part2/checkpoints/
+part2/logs/
+output/
+*.bin
+*.safetensors
+*.zip

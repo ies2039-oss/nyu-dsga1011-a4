@@ -1,0 +1,12 @@
+{
+  "experiment_name": "run9_continue_lr1e-4_bs8_wd0",
+  "num_beams": 4,
+  "dev_examples": 466,
+  "loss_selection": false,
+  "length_penalty": 0.6,
+  "dev_loss": 0.019408525073609652,
+  "record_f1": 0.8115439473898068,
+  "record_em": 0.7982832618025751,
+  "sql_em": 0.030042918454935622,
+  "error_rate": 0.1072961373390558
+}
